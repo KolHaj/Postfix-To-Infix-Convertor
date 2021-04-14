@@ -1,0 +1,19 @@
+Add R0 3 
+3 Mul R1 3 
+2 Add R2 R1 R2 
+
+Add R0 3 
+3 Mul R1 3 
+2 
+Add R0 3 
+3 Mul R1 3 
+2 Add R2 R1 R2 
+
+Mul R0 1 
+2 Add R1 3 
+6 Add R2 R1 R2 
+
+Mul R0 3 
+3 Add R1 9 
+6 Add R2 R1 R2 
+
