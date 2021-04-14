@@ -17,3 +17,15 @@ Mul R0 3
 3 Add R1 9 
 6 Add R2 R1 R2 
 
+Mul R0 3 
+4 Mul R1 5 
+4 Add R2 R1 R2 
+
+Mul R0 3 
+4 Mul R1 5 
+4 Add R2 R1 R2 
+
+Mul R0 3 
+4 Mul R1 5 
+4 Add R2 R1 R2 
+
